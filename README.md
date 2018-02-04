@@ -25,6 +25,9 @@ You can :
 ## Read More:
 
 How to block domains in Linux [English] :
+
 How to block domains in Linux [Arabic] :
+
 How to block domains in Windows [English] :
+
 How to block domains in Windows [Arabic] :
